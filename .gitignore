@@ -78,3 +78,14 @@ htmlcov/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Virtual Environment
+.venv/
+venv/
+env/
